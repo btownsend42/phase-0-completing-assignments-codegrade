@@ -168,8 +168,7 @@ This assignment
       has a file named myfile.md:
     AssertionError: No file named 'myfile.md' found. Create one in the root of the assignment's directory: value: expected './myfile.md' to exist
 
-1 passing (5ms)
-1 failing
+
 ```
 
 > **Note:** If you got a "command not found" error, or a different error aside
